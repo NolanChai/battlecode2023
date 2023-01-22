@@ -1,6 +1,6 @@
-# Battlecode 2023 Scaffold
+# Scuffed Battlecode 2023
 
-This is the Battlecode 2023 scaffold, containing an `examplefuncsplayer`. Read https://play.battlecode.org/bc23/getting-started!
+Stuff for Battlecode 2023 after watching lecs at 2.5x speed and mashing some stuff together at 3 am. 
 
 ### Project Structure
 
@@ -27,8 +27,7 @@ This is the Battlecode 2023 scaffold, containing an `examplefuncsplayer`. Read h
 
 ### How to get started
 
-You are free to directly edit `examplefuncsplayer`.
-However, we recommend you make a new bot by copying `examplefuncsplayer` to a new package under the `src` folder.
+just load in eclipse and build gradle; update from tasks and build from client, do `./gradlew run -PteamA=<botname1> -PteamB=<botname2>`
 
 ### Useful Commands
 
