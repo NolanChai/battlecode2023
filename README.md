@@ -27,7 +27,7 @@ Stuff for Battlecode 2023 after starting to work on it 1.5 days before the final
 
 ### How to get started
 
-just load in eclipse and build gradle; update from tasks and build from client, do `./gradlew run -PteamA=<botname1> -PteamB=<botname2>`
+just load in eclipse, or vs code, and build gradle; update from tasks and build from client, do `./gradlew run -PteamA=<botname1> -PteamB=<botname2>`
 
 ### Useful Commands
 
