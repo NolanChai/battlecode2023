@@ -1,6 +1,6 @@
 # Scuffed Battlecode 2023
 
-Stuff for Battlecode 2023 after starting to work on it 1.5 days before the final sprint qual, watching lecs at 2.5x speed, and mashing some stuff together at 3 am. 
+Stuff for Battlecode 2023 after starting to work on it 1.5 days before the final sprint qual, watching lecs at 2.5x speed, and mashing some stuff together at 3 am. Courtesy to Battlecode devs for a good chunk of this lmao
 
 ### Project Structure
 
